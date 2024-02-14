@@ -1,0 +1,95 @@
+
+header{
+    font-family: Arial, Helvetica, sans-serif;  /*Poner fuente que quiera*/
+    font-size: 30px;   /*TAMAÑO*/
+    line-height: 100px;      /*Es el INTERLINEADO*/
+    text-align: center;  /*DONDE QUIERO Q ESTE POSICIONADO*/
+    font-weight: 300;
+    text-decoration:underline;  /*LINEA */
+    color: rgba(233, 36, 36, 0.818);
+    background: rgba(209, 187, 106, 0.493);
+    border-radius: 75px;
+
+}
+
+.container {
+
+    width: 100vh;
+    margin: auto;
+    
+    
+   }
+
+.section-family{
+    background: rgb(153, 6, 216);
+padding-bottom: 70px;
+padding-top: 30px;
+
+}
+
+.family{
+    
+    font-family: "Roboto", sans-serif;
+}
+
+.section-size{
+    background: rgb(152, 207, 50);
+padding-bottom: 70px;
+padding-top: 30px;
+
+}
+
+.size{
+    
+    font-size: 100px;
+}
+.descripcionsize{
+    font-size: medium;
+}
+
+.section-height{
+    background: rgb(39, 116, 225);
+padding-bottom: 70px;
+padding-top: 30px;
+
+}
+
+.height{
+    
+    line-height: 100px;
+}
+
+.section-align{
+    background: rgb(222, 179, 38);
+padding-bottom: 70px;
+padding-top: 30px;
+
+}
+
+.align{
+    
+    text-align: center;
+}
+
+.section-weight{
+    background: rgb(234, 90, 18);
+padding-bottom: 70px;
+padding-top: 30px;
+
+}
+
+.weight{
+    font-weight: bold;
+}
+
+.section-decoration{
+    background: rgb(24, 215, 209);
+padding-bottom: 70px;
+padding-top: 30px;
+
+}
+
+.decoration{
+    
+    text-decoration: overline;
+}
